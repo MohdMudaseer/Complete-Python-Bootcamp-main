@@ -1,0 +1,3 @@
+hello 
+this is a file created to test
+how does exception handlinng works regarding files
